@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 75 75"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="weekly_menu.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:export-filename="weekly_menu.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8115139"
+     inkscape:cx="60.170667"
+     inkscape:cy="283.18855"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="103.7806"
+       y="48.578154"
+       width="93.292136"
+       height="27.325211"
+       id="rect433" />
+    <rect
+       x="21.528954"
+       y="16.560734"
+       width="235.43844"
+       height="76.179377"
+       id="rect427" />
+    <rect
+       x="448.51988"
+       y="72.039194"
+       width="74.523304"
+       height="22.356991"
+       id="rect421" />
+    <rect
+       x="77.559438"
+       y="208.66525"
+       width="56.306496"
+       height="41.95386"
+       id="rect420" />
+    <rect
+       x="24.013065"
+       y="103.22858"
+       width="235.71445"
+       height="125.58557"
+       id="rect432" />
+    <rect
+       x="35.329566"
+       y="101.02048"
+       width="221.91384"
+       height="121.7214"
+       id="rect426" />
+    <rect
+       x="256.59406"
+       y="187.8083"
+       width="3.4779315"
+       height="22.413338"
+       id="rect5577" />
+    <rect
+       x="164.6221"
+       y="217.17751"
+       width="110.90737"
+       height="29.3692"
+       id="rect5571" />
+    <rect
+       x="230.31636"
+       y="237.27222"
+       width="17.389658"
+       height="28.982763"
+       id="rect5561" />
+    <rect
+       x="18.162533"
+       y="107.81588"
+       width="243.06879"
+       height="227.22487"
+       id="rect4091" />
+    <rect
+       x="0"
+       y="28.982763"
+       width="241.90947"
+       height="76.900932"
+       id="rect1750" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#517b2b;fill-opacity:1;stroke-width:0.248592;stroke-linecap:round"
+       id="rect860"
+       width="75.362282"
+       height="75.121162"
+       x="-0.11597638"
+       y="-0.066759437" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.6010137,2.8144371)"
+       id="text5569"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:end;white-space:pre;shape-inside:url(#rect5571);display:inline;fill:#000000;fill-opacity:1;stroke-width:1.092;stroke-linecap:round" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text424"
+       style="font-weight:bold;font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';white-space:pre;shape-inside:url(#rect426);display:inline;fill:#000000;stroke-width:1.092;stroke-linecap:round" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-0.52916663)"
+       id="text430"
+       style="font-weight:bold;font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';white-space:pre;shape-inside:url(#rect432);shape-padding:0.276012;display:inline;fill:#000000;stroke-width:1.092;stroke-linecap:round"><tspan
+         x="24.289062"
+         y="117.91598"
+         id="tspan295">zeile1
+</tspan><tspan
+         x="24.289062"
+         y="137.91598"
+         id="tspan297">zeile2
+</tspan><tspan
+         x="24.289062"
+         y="157.91598"
+         id="tspan299">zeile3
+</tspan><tspan
+         x="24.289062"
+         y="177.91598"
+         id="tspan301">zeile4
+</tspan><tspan
+         x="24.289062"
+         y="197.91598"
+         id="tspan303">zeile5
+</tspan><tspan
+         x="24.289062"
+         y="217.91598"
+         id="tspan305">zeile6</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text418"
+       style="font-weight:bold;font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';white-space:pre;shape-inside:url(#rect420);display:inline;fill:#000000;stroke-width:1.092;stroke-linecap:round" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text419"
+       style="font-weight:bold;font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';white-space:pre;shape-inside:url(#rect421);display:inline;fill:#000000;stroke-width:1.092;stroke-linecap:round" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text425"
+       style="font-weight:bold;font-size:26.6667px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';white-space:pre;shape-inside:url(#rect427);display:inline;fill:#000000;stroke-width:1.092;stroke-linecap:round"
+       x="49.070312"
+       y="0"><tspan
+         x="83.909435"
+         y="40.580695"
+         id="tspan309"><tspan
+           style="font-weight:normal;font-family:Gabriola;-inkscape-font-specification:'Gabriola, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
+           id="tspan307">Weekly Menu
+</tspan></tspan><tspan
+         x="119.01365"
+         y="76.371692"
+         id="tspan313"><tspan
+           style="font-weight:normal;font-family:Gabriola;-inkscape-font-specification:'Gabriola, Normal';text-align:center;text-anchor:middle;fill:#ffffff"
+           id="tspan311">Time</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text431"
+       style="font-weight:bold;font-size:16px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';white-space:pre;shape-inside:url(#rect433);display:inline;fill:#000000;stroke-width:1.092;stroke-linecap:round" />
+  </g>
+</svg>
